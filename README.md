@@ -46,9 +46,10 @@ This project demonstrates the integration of Appium for automation testing with 
 
 - flutter run
 - Running Appium Automation Tests
+- 
 1. Start the Appium server:
 - appium
-
+- 
 2. Run the Python script for automation:
 - python appium_test.py
 
