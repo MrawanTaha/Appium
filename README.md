@@ -8,7 +8,6 @@ This repository contains a simple Flutter app along with a Python script for App
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project demonstrates the integration of Appium for automation testing with a Flutter application. The repository includes:
