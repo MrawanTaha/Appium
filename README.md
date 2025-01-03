@@ -33,24 +33,24 @@ This project demonstrates the integration of Appium for automation testing with 
    git clone https://github.com/MrawanTaha/Appium.git
    cd Appium
 
-Install Flutter dependencies:
+- Install Flutter dependencies:
 
-flutter pub get
-Install Python dependencies:
+- flutter pub get
+- Install Python dependencies:
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ## Usage
-Running the Flutter App
-To run the Flutter app on a connected device or emulator:
+- Running the Flutter App
+- To run the Flutter app on a connected device or emulator:
 
-flutter run
-Running Appium Automation Tests
-1-Start the Appium server:
-appium
+- flutter run
+- Running Appium Automation Tests
+- 1-Start the Appium server:
+- appium
 
-2-Run the Python script for automation:
-python appium_test.py
+- 2-Run the Python script for automation:
+- python appium_test.py
 
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
+## Contributing
+- Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
