@@ -40,7 +40,7 @@ Install Python dependencies:
 
 pip install -r requirements.txt
 
-Usage
+## Usage
 Running the Flutter App
 To run the Flutter app on a connected device or emulator:
 
